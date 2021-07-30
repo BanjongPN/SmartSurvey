@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(theme: ThemeData(primarySwatch: Colors.green),
     debugShowCheckedModeBanner: false,
-      title: 'Smart Survey ALRO',
+      title: 'Smart Survey',
       home: Home(),
     );
   }
